@@ -17,6 +17,10 @@
   cursor: pointer;
 }
 
+.list li:hover {
+  color: green;
+}
+
 .popup {
   background: #ededed;
 }
