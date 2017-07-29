@@ -1,5 +1,4 @@
 # Advanced Project Demo
-> Authored by Luis Gonzalez-Yante on 07/27/17
 
 This Advanced Project Demo is a prototype for what will eventually become the Advanced Project for students going through the NGA curriculum
 
