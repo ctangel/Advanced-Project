@@ -1,0 +1,22 @@
+/* index.html */
+.active {
+  color: red;
+}
+
+/* map.html */
+#map {
+  height: 360px;
+}
+
+/* table.html */
+.view {
+  color: green;
+}
+
+.list li {
+  cursor: pointer;
+}
+
+.popup {
+  background: #ededed;
+}

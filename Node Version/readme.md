@@ -1,0 +1,17 @@
+# Advanced Project Demo
+This Advanced Project Demo is a prototype for what will eventually become the Advanced Project for students going through the NGA curriculum
+
+There are two versions of the project: One runs off of node and the other does not. Both function exactly the same.
+
+
+## Requirements
+  1.  Map Using Leaflet
+    * Include refineries on the map
+    * Include descriptions of the oil refineries for each point  when you click on them
+
+  2.  Table view of the refinery data
+    * Make a list displaying each refinery name
+    * When you click on the name, the test should change color, and a popup giving more data about the refinery should show
+
+  3.  A Section about why refineries are bad
+    * Not defined atm
